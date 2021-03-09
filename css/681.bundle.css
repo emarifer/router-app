@@ -1,0 +1,20 @@
+
+.user[data-v-aa9cdb7c] {
+  padding: 7rem 0.5rem;
+  text-align: center;
+}
+.user__picture[data-v-aa9cdb7c] {
+  border: 1px solid;
+}
+.user__more[data-v-aa9cdb7c] {
+  display: block;
+  margin-top: 1rem;
+  color: black;
+}
+.user__other[data-v-aa9cdb7c] {
+  margin-top: 1rem;
+}
+.user__other a[data-v-aa9cdb7c] {
+  color: black;
+}
+

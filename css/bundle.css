@@ -1,0 +1,79 @@
+
+.header[data-v-bb50a5e4] {
+  text-align: center;
+  padding-bottom: 1rem;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.header__title[data-v-bb50a5e4] {
+  color: goldenrod;
+}
+.header__nav[data-v-bb50a5e4] {
+  display: flex;
+  justify-content: space-evenly;
+}
+.header__nav__link[data-v-bb50a5e4] {
+  text-decoration: none;
+  color: white;
+}
+nav a.my-class-vue-exact[data-v-bb50a5e4],
+nav a.my-class-vue-active[data-v-bb50a5e4] {
+  color: goldenrod;
+  border-bottom: 1px solid;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+  background-color: lightgray;
+}
+
+
+.fade-enter-active[data-v-7ba5bd90],
+.fade-leave-active[data-v-7ba5bd90] {
+  opacity: 1;
+  transition: all 0.5s ease-in-out;
+}
+.fade-enter[data-v-7ba5bd90],
+.fade-leave[data-v-7ba5bd90] {
+  opacity: 0;
+}
+
+/* .fade-enter-active {
+  animation: fade 0.2s ease-in-out;
+}
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  50% {
+    opacity: 50%;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.fade-leave-active {
+  animation: slide 0.2s ease-in-out;
+}
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-300px);
+  }
+} */
+
+

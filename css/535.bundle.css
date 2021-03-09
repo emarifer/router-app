@@ -1,0 +1,17 @@
+
+div[data-v-336a2002] {
+    padding: 7rem 0.5rem;
+    width: 30vw;
+    min-width: 500px;
+    margin: 0 auto;
+}
+form[data-v-336a2002] {
+    background-color: gray;
+    padding: 1rem;
+}
+form *[data-v-336a2002] {
+    width: 100%;
+    margin: 0.3rem 0;
+    padding: 0.2rem;
+} 
+

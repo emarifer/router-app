@@ -1,0 +1,20 @@
+
+.content[data-v-1730f60e] {
+  padding: 7rem 2rem;
+}
+.content__heading[data-v-1730f60e] {
+  text-align: center;
+}
+.content__separator[data-v-1730f60e] {
+  border-color: gray;
+}
+form[data-v-1730f60e] {
+  background-color: gray;
+  padding: 1rem;
+}
+form *[data-v-1730f60e] {
+  width: 100%;
+  margin: 0.3rem 0;
+  padding: 0.2rem;
+}
+
